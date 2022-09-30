@@ -1,0 +1,11 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\bin\Debug\CRUDcarreras.exe.config
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\bin\Debug\CRUDcarreras.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\bin\Debug\CRUDcarreras.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.FrmAlta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\CRUDcarreras\obj\Debug\CRUDcarreras.pdb
